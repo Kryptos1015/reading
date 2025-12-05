@@ -1,1 +1,24 @@
-. 
+# Computational Literary Preference Modelling
+
+**LaTex source**: [`/paper/`](/paper/)  
+**Code & data analysis**: [`/program/`](/program/)  
+**Rendered figures & graphs**:[`/figures/`](/figures/)  
+
+
+![1](pdf-pngs/main-01.png?raw=True)
+![1](pdf-pngs/main-02.png?raw=True)
+![1](pdf-pngs/main-03.png?raw=True)
+![1](pdf-pngs/main-04.png?raw=True)
+![1](pdf-pngs/main-05.png?raw=True)
+![1](pdf-pngs/main-06.png?raw=True)
+![1](pdf-pngs/main-07.png?raw=True)
+![1](pdf-pngs/main-08.png?raw=True)
+![1](pdf-pngs/main-09.png?raw=True)
+![1](pdf-pngs/main-10.png?raw=True)
+![1](pdf-pngs/main-11.png?raw=True)
+![1](pdf-pngs/main-12.png?raw=True)
+![1](pdf-pngs/main-13.png?raw=True)
+![1](pdf-pngs/main-14.png?raw=True)
+![1](pdf-pngs/main-15.png?raw=True)
+![1](pdf-pngs/main-16.png?raw=True)
+![1](pdf-pngs/main-17.png?raw=True)
